@@ -1,0 +1,10 @@
+
+# Always ignore
+
+node_modules
+_*
+!_*.scss
+*.log
+*.lock
+*-lock.json
+.hardlinks

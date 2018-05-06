@@ -1,0 +1,22 @@
+{
+  "name": "metest",
+  "version": "0.0.1",
+  "description": "Test runner",
+  "main": "index.js",
+  "bin": {
+    "mtt": "run"
+  },
+  "scripts": {
+    "start": "./run"
+  },
+  "dependencies": {
+    "glob": "^7.1.2"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "author": "Eliot Akira",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliot-akira/metest.git"
+  }
+}
